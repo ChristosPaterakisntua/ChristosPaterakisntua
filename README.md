@@ -8,6 +8,7 @@ I am an **Electrical and Computer Engineering (ECE)** undergraduate student at t
 
 - **Deep Learning & Audio Processing:** Building and training neural network architectures in `PyTorch` for audio feature extraction and music classification (*Music Analyzer v2*).
 - **AI Foundations:** Following MIT's *[Universal AI](https://learn.mit.edu/programs/program-v1:UAI+B2C)* online course to build a broader theoretical and practical understanding of modern AI systems.
+- **Robotics:** Participating in the year-long **IEEE RAS NTUA** lab program, working on hands-on robotics, sensor integration, and control systems.
 - **Algorithmic Problem Solving:** Practicing data structures, dynamic programming, and graph algorithms in `C++` (NeetCode & university problem sets).
 - **Mathematical & Signal Foundations:** Deepening my background in probability theory, stochastic processes, and signal processing through second-year ECE coursework.
 
